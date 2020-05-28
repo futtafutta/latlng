@@ -9,3 +9,7 @@ Rubyスクリプト
 https://github.com/KMR-zoar/cblxy
 をgolang向けに書き換えたものです。
 
+INSTALL
+
+go get -u -v https://github.com/futtafutta/latlng
+
