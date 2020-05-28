@@ -1,5 +1,5 @@
 # lnglat
-latlng
+lnglat
 
 平面直角座標と緯度経度を相互に変換するgolangパッケージです。
 
